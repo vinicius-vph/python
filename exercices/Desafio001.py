@@ -1,0 +1,5 @@
+print('=======================')
+print('Vamos às apresentações')
+print('=======================\n')
+nome = input('Qual é o seu nome? ')
+print('\nOlá',nome,'!','Prazer em te conhecer!')
