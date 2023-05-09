@@ -1,0 +1,5 @@
+file_py = open("file_py.txt", "w")
+file_py.write("Hello, world!\n")
+file_py.write("How Are you?\n")
+file_py.close()
+print(open("./file_py.txt").read())
